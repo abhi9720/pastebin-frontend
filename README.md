@@ -66,7 +66,7 @@ Paste Frontend is a web application built using React, allowing users to create,
 ## API Documentation
 -------------------
 
-The Paste Frontend application communicates with the Paste Backend API. API documentation can be found in the [Paste Backend repository](https://github.com/abhi9720/paste-backend).
+The Paste Frontend application communicates with the Paste Backend API. API documentation can be found in the [Paste Backend repository](https://github.com/abhi9720/pastebin-backend).
 
 ## Contributing
 ------------
